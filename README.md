@@ -1,5 +1,5 @@
-掌握内容:
-1.html5
+# 掌握内容:
+# 1.html5
 2.css3
 3.js{json.dom.ajax}..
 4.jq{isotope.parallax.prettyPhoto.}
